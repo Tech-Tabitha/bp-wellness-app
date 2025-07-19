@@ -11,3 +11,5 @@ reportlab
 fpdf
 Pillow
 google-auth
+gcloud
+setuptools
