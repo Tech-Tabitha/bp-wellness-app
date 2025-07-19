@@ -5,3 +5,4 @@ fpdf==1.7.2
 pyrebase4==4.5.0
 requests==2.31.0
 urllib3==2.2.1
+firebase-admin
